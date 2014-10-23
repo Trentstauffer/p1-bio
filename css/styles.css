@@ -1,18 +1,42 @@
 /* Your Website Styles */
 h1 {
-	color: black;
-	font-family: 'Lobster', cursive;
-	background: red;
-	width: 300px;
+	color: #F14C38;
+	font-family: 'Oswald', sans-serif;
+	
+	width: 500px;
 	padding: 10px;
 	border: 10px 
 }
 
 body {
-	background: url("../img/bg.png");
+	background-color: #144955; no-repeat center center fixed;
+	  background-size: cover;
+ 
+
+
+
+}
+
+p {
+	color: #F4F1E0;
+	font-family: 'Oswald', sans-serif;
+	width: 1000px;
+	padding: 10px;
+	border: 10px }
+
+li {
+
+	color: #F14C38;
+	font-family: 'Oswald', sans-serif;
+	width: 400px;
+	padding: 10px;
+	border: 10px 
+}
+
+
+a{
+	color:#F4F1E0;
+	font-family: 'Oswald', sans-serif;
 }
 
 /* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
-}
